@@ -20,7 +20,7 @@ import {
   Panel,
   PanelType,
   IContextualMenuItem,
-  autobind,
+  // autobind,
   ContextualMenu,
   IContextualMenuProps,
   DirectionalHint,
